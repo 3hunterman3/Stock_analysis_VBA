@@ -14,6 +14,7 @@ Results:
 - we can see that our new refarctored code runs a lot more quickly than that of our original code.
 
 **The code of our refactored VBA code:**
+```
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
@@ -127,6 +128,7 @@ Next j
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 End Sub
+```
 
 **The orignal VBA code:**
 Sub AllStocksAnalysis()
