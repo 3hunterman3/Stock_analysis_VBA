@@ -133,7 +133,7 @@ End Sub
 ```
 
 **The orignal VBA code:**
-'''
+```
 Sub AllStocksAnalysis()
     yearValue = InputBox("what year would you like to run the analysis on?")
     Dim startTime As Single
@@ -242,7 +242,7 @@ Next i
     
 
 End Sub
-'''
+```
 Summary:
 
 What are the advantages or disadvantages of refactoring code?
