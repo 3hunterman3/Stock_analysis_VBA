@@ -5,14 +5,14 @@ Overview of Project:
 
 Results:
 - When comparing the stock performance from 2017 and 2018 we can see very different results:
-<img src="total_2017.png" style="width: 700px; height: 700px;">
+<img src="total_2017.png" style="width: 550px; height: 550px;">
 
-<img src="total_2018.png" style="width: 700px; height: 700px;">
+<img src="total_2018.png" style="width: 550px; height: 550px;">
 
 - In the pictures we can see the data for 2017 has more positive returns and for 2018 more negative returns.
 - we can look at the exectuion time of our VBA code and it shows that our 2017 data exectued the data in 0.125 seconds compared to out 2018 data which was 0.1289 seconds. We can also compare this execution to our original script compared to the refactored script when we compare the times we get the following times:
 
-<img src="original.png" style="width: 700px; height: 700px;">
+<img src="original.png" style="width: 550px; height: 550px;">
 - we can see that our new refarctored code runs a lot more quickly than that of our original code.
 
 **The code of our refactored VBA code:**
